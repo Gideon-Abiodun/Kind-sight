@@ -531,6 +531,15 @@ section {
   html {
     font-size: 55%;
   }
+
+  .header .logo {
+  margin-right: auto;
+  font-size: 2.2rem;
+  color: var(--white);
+  font-weight: 700;
+  transition: 0.3s;
+}
+
   .footer h3 {
   font-size: 2rem;
   padding: 0 3rem;
