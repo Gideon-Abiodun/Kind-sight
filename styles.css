@@ -97,9 +97,9 @@ section {
   transform: scale(1.05);
 }
 
-.header .logo span {
+/* .header .logo span {
   font-weight: normal;
-}
+} */
 
 .header .navbar a {
   font-size: 1.5rem;
